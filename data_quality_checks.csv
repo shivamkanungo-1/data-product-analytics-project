@@ -1,0 +1,7 @@
+check_id,table_name,null_percentage,duplicate_count,test_passed
+1,customers,2,5,yes
+2,orders,5,2,yes
+3,payments,12,15,no
+4,shipments,1,1,yes
+5,invoices,8,10,no
+,,,,

@@ -1,0 +1,7 @@
+job_id,source_system,status,auto_resolved,execution_time
+1,Legacy_DB,success,yes,120
+2,Legacy_DB,failed,no,240
+3,CRM_System,success,yes,150
+4,ERP_System,failed,yes,310
+5,ERP_System,success,yes,200
+6,CRM_System,failed,no,400
